@@ -5,11 +5,6 @@
   src="https://i.ibb.co/VgtYZv2/IMG-2820.jpg"
 />
 
-<!--
-**Erdogan90/Erdogan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Completing school of code bootcamp and beocming a Full stack developer
 - 🌱 I’m currently learning Html5, Css, Js, React, Sql, 
 - 👯 I’m looking to collaborate on ...
