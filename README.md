@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img
-  align="center"
+  text-align="center"
   src="https://i.ibb.co/VgtYZv2/IMG-2820.jpg"
 />
 
@@ -13,4 +13,4 @@
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/erdoganelma/)
 - ⚡ Fun facts: I did Acting on stage for 18 years! I Love hiking and being out in the wild. I Love taking on a challange. 
 - 💪 My Personal aims are to do 50 full course Tough mudder events by the time im 50. Current number - 10
-
+- 🗯️ Favourite quote - "Be naive enough to start, stubborn enough to finish"
