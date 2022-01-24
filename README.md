@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <img
   text-align="center"
