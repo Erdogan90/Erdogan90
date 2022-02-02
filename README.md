@@ -21,4 +21,4 @@
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erdogan90&theme=algolia)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erdogan90&theme=algolia)](https://github.com/Erdogan90)
