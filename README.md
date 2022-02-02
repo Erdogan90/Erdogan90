@@ -17,7 +17,7 @@
 
 ## Github stats
 
-[![Erdogan Elma GitHub stats](https://github-readme-stats.vercel.app/api?username=Erdogan90&show_icons=true&theme=algolia)](https://github.com/Erdogan90/github-readme-stats)
+[![Erdogan Elma GitHub stats](https://github-readme-stats.vercel.app/api?username=Erdogan90&show_icons=true&theme=algolia)]
 
 ## Languages
 
