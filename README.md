@@ -15,4 +15,4 @@
 - 🗯️ Favourite quote - "Be naive enough to start, stubborn enough to finish"
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erdogan90)](https://github.com/Erdogan90/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erdogan90&show_icons=true&theme=radical)](https://github.com/Erdogan90/github-readme-stats)
