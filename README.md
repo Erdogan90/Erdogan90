@@ -13,7 +13,7 @@
 - ⚡ Fun facts: I did Acting on stage for 18 years! I Love hiking and being out in the wild. I Love taking on a challange. 
 - 💪 My Personal aims are to do 50 full course Tough mudder events by the time im 50. Current number - 10
 - 🗯️ Favourite quote - "Be naive enough to start, stubborn enough to finish"
-- 👂 
+- 👂 Bilingual 
 
 ## Github stats
 
